@@ -147,4 +147,8 @@ You need to modify `apiport` variable to "8080" in index.html under src/app/app,
 var apiport= ':8080';
 ```
 
-
+########################################################################################################
+# A simple demo to show how CJpath analyses data
+# Copyright (C)  2017  AuriQ Systems, Inc.
+# This script is an open source distributed under the GNU General Public License v3.
+########################################################################################################
