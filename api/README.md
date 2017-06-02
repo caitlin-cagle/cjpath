@@ -22,3 +22,8 @@ Customer journey path application server-side scripts.
 
 * Noriko Imai (nimai@auriq.com)
 
+########################################################################################################
+# A simple demo to show how CJpath analyses data
+# Copyright (C)  2017  AuriQ Systems, Inc.
+# This script is an open source distributed under the GNU General Public License v3.
+########################################################################################################
