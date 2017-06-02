@@ -13,3 +13,8 @@ sitecatalyst: weblog (sitecatalyst), product and user profile
 ad_web_purchase: Ad-server log, web log and purchase log
 multi_device: sample CJ data for multiple device use
 
+########################################################################################################
+# demo.sh: A simple demo to show how CJpath analysing data
+# Copyright (C)  2017  AuriQ Systems, Inc.
+# This script is an open source distributed under the GNU General Public License v3.
+########################################################################################################
